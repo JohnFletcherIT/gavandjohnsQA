@@ -1,6 +1,6 @@
-package com.teamtreehouse.giflib.data;
+package com.gavandjohnsstuff.qa.data;
 
-import com.teamtreehouse.giflib.model.Gif;
+import com.gavandjohnsstuff.qa.model.Gif;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;

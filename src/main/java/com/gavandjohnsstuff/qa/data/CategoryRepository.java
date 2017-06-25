@@ -1,6 +1,6 @@
-package com.teamtreehouse.giflib.data;
+package com.gavandjohnsstuff.qa.data;
 
-import com.teamtreehouse.giflib.model.Category;
+import com.gavandjohnsstuff.qa.model.Category;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;

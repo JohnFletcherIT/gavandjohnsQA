@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib;
+package com.gavandjohnsstuff.qa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
